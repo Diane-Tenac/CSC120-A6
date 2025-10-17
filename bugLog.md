@@ -1,6 +1,6 @@
 ## Bug 1
-Brief description:  
-Failed unit test: 
+Brief description:  The constuctutor is suppossed to return the instance of the ResaleShop class which is theinventory and it is not returning anything.
+Failed unit test: public ArrayList< Computer>test_ShopReturn()
 
 ## Bug 2
 Brief description:  
